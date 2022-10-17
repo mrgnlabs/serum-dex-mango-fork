@@ -24,5 +24,5 @@ slog-scope = "4.3"
 slog-stdlog = "4"
 log = "0.4"
 debug_print = "1.0.0"
-tokio = {version = "0.2", features = ["full"]}
+tokio = {version = "1.17", features = ["full"]}
 warp = "0.2"
