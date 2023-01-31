@@ -25,4 +25,4 @@ slog-stdlog = "4"
 log = "0.4"
 debug_print = "1.0.0"
 tokio = {version = "0.2", features = ["full"]}
-warp = "0.2"
+warp = "0.3"
